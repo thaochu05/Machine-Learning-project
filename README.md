@@ -1,4 +1,4 @@
-# Machine-Learning-project
+# Sales Prediction_Machine Learning project
 
 The task at hand involves developing a machine learning model for sales forecasting at Rossmann, which operates over 3,000 drug stores across seven European countries. The aim is to predict daily sales up to six weeks in advance, taking into consideration various factors that influence store sales, such as promotions, competition, holidays, seasonality, and location.
 
